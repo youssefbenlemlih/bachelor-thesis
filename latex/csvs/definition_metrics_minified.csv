@@ -1,0 +1,222 @@
+MetricId,Metric,MatricMapping
+1a.1.1,Number of operating systems supported,
+1a.1.2,Support for Function and Class Components,"No=1
+Yes=5"
+1a.1.3,Adoption of React Suspense ,"Implementation available=5
+Planned=3
+No=1"
+1a.2.1,Time required for installation,
+1a.2.2,Availability of the installation manual,"No=1
+Yes=5"
+1a.2.3,Automation level and use of installation scripts,
+1a.2.4,Dependence on third-party components,"0=1
+1-5=2
+5-10=3
+10-15=4
+15-20=5"
+1a.2.5,Nominal length of the installation procedures,
+1a.2.6,Number of configuration files Minimum number of files added and changed for minimum functionality,"One file=1
+Two files = 3
+Three and higer=5"
+1a.2.7,Availability and rationality of default options,"No default options=1
+Default options provided=3
+Useful/rational default options provided=5"
+1a.2.8,Internationalisation of the manual,"Multiple languages supported=5
+English supported=3
+Only non-english language supported=1"
+1a.2.9,Number of unforeseen issues,"Zeo issues=1
+Two/Three issues=3
+More issues=5"
+1a.2.10,Degree of knowledge of the required operating environment,"Little previous knowledge required=1
+Medium knowledge required=3
+Understanding of a paradigm required=5"
+1a.2.11,Efficacy of the guide,"Installation guide non existing=1
+Installation guide available=5"
+1a.3.1,Existence of other libraries with the same functionality and a similar API,"No equivalent library available=1
+< 3 Similar libraries available=3
+3+ similar libraries available=5"
+,,
+1b.1.1,Availability and quality of developer tools,"No=1
+Yes=3
+Yes, with advanced debugging features=5"
+,// because libraries cannot be changed by definition,
+1b.3.1,Possibility to test business logic without React,"No=1
+Yes=5"
+,"// ambiguous term: ""Technology concentration""",
+1b.5.1,Breaking API changes,"Breaking API changes in major versions=1
+Breaking API  changes in major versions with migrations guide=3
+Breaking API  changes in major versions with migration guide and codemod=4
+No breaking API changes introduced major update=5"
+1b.6.1,Code duplication,"0=1
+1-10=2
+10-20=3
+10-30=4
+30+=5"
+1b.6.2,Cyclomatic complexity,"0-92=1(Base 82)
+92-102=2
+102-112=3
+112-122=4
+122+=5"
+1b.6.3,Cognitive complexity,"1-10=1
+11-20=2
+21-50=4
+Over 50=5"
+,// non applicable to domain,
+,// non applicable to domain,
+1d.1.1,Possibility to share state without prop drilling.,"No=1
+Yes=5"
+1d.1.2,Possibility to have derived state.,"No=1
+Yes, through React=3
+Yes=5"
+1d.2.1,Level of data importability,
+1d.2.2,Level of data exportability,
+1d.2.3,Availability of community plugins,"No=1
+Yes=5"
+1d.3.1,Lines of code,"0-685=1
+685-710=2
+710-735=3
+735-760=4
+760+=5"
+1d.3.2,Statement count,"0-114=1
+114-124=2
+124-144=3
+134-144=4
+Over 144=5"
+1d.3.3,Functions count,"0-59=1
+59-69=2
+69-79=3
+79-89=4
+Over 89=5"
+,// non applicable to domain,
+1e.2.1,Availability and quality of developer tools (same as 1b.1.1),"No=1
+Yes=3
+Yes, with advanced debugging features=5"
+,// non applicable to domain,
+-,Same metrics as in Question 2.5,-
+1f.1.1,First Contentful Paint,"0-1.8=1
+1.8-3=3
+Over 3=5"
+1f.1.2,Speed Index,"0–3.4=1
+3.4–5.8=3
+Over 5.8=5"
+1f.1.3,Largest Contentful Paint,"0–2.5=1
+2.5–4=3
+Over 4=5"
+1f.1.4,Time to Interactive,"0–3.8=1
+3.8–7.3=3
+Over 7.3=5"
+1f.1.5,Total Blocking Time,"0–200=1
+200–600=3
+Over 600=5"
+1f.1.6,Cumulative Layout Shift,"0–0.1=1
+0.1–0.25=3
+Over 0.25=5"
+1f.2.1,Efficient re-renders,"Redundant re-renders=1
+Suboptimal re-renders=3
+Optimal re-renders=5"
+2.1.1,Number of committers,"0-100=1
+100-200=2
+200-300=3
+300-400=4
+Over 400=5"
+2.2.1,Number of major releases per year,
+2.2.2,Average number of commits per year,"0=1
+1-10=2
+10-100=3
+100-1000=4
+Over 1000=5"
+2.2.3,Average number of commits per committer,"0-2.5=1
+2.5-5=2
+5-7.5=3
+7.5-10=4
+Over 10=5"
+2.2.4,Closed bugs index issues on GitHub,"0-250=1
+250-500=2
+500-750=3
+750-1000=4
+Over 1000=5"
+2.2.5,Index of satisfied requests merged pull requests on GitHub,"0-250=1
+250-500=2
+500-750=3
+750-1000=4
+Over 1000=5"
+2.3.1,Average number of threads per year on StackOverflow,"0-200=1
+200-400=2
+400-600=3
+600-800=4
+Over 800=5"
+2.3.2,Index of unanswered threads on StackOverflow,"0-5=1
+5-10=2
+10-15=3
+15-20=4
+Over 20=5"
+2.3.3,Number of forums,
+2.3.4,Average number of threads per forum,
+2.3.5,Average number of posts per year,
+2.3.6,Forum internationalisation level,
+2.3.7,Number of trackers,
+2.3.8,Volume of Wikis Usability of the documentation (same as 2.5.6),"Documentation provides no instructions=1
+Documentation includes intallation instructions=2
+Documentation provides project setup=3
+Documentation provides hello world=4
+Documentation provides advanced examples and guides=5"
+2.3.9,Number of faqs in the documentation,"No FAQ available=5
+< 10 Questions=3
+11+ Questions=5"
+2.4.1,Availability of training services,"No=1
+Yes=5"
+2.4.2,Temporal coverage of training services,
+2.4.3,Availability of e-learning services,
+2.4.4,Availability of phone assistance,
+2.4.5,Availability of certification services,"No=1
+Yes=5"
+2.4.6,Availability of outsourcing services,
+2.4.7,Availability of maintenance  services,
+2.4.8,Availability of information and services for TCO estimation,
+2.4.9,Availability of consulting services,"No=1
+Yes=5"
+2.5.1,Number of topics covered in the administrator documentation,
+2.5.2,Number of topics covered in the user documentation,
+2.5.3,Number of topics covered in the technical documentation,
+2.5.4,Number of topics covered in the other documents,
+2.5.5,Number of additional documentation files,
+2.5.6,Usability of the documentation,"Documentation provides no instructions=1
+Documentation includes installation instructions=2
+Documentation provides project setup=3
+Documentation provides hello world=4
+Documentation provides advanced examples and guides=5"
+,// Same as 1d.1,
+3.2.1,Number of weekly downloads,"0-250K=1
+250K-500K=2
+500K-750K=3
+750K-1M=4
+Over 1M=5"
+3.2.2,Freshmeat popularity index Number of stars on GitHub,"0-50=1
+50-500=2
+500-5K=3
+5K-50k=4
+Over 50K=5"
+3.2.3,Number of rating source forge users Number of forks on GitHub,"0-250=1
+250-500=2
+500-750=3
+750-1000=4
+Over 1000=5"
+3.2.4,Positive rating index,
+3.2.5,Number of success stories,
+3.2.6,Google visibility,
+3.2.7,Number of official partners/spronsors,"None=1
+Many=5"
+3.2.8,Number of published books,"None=1
+Many=5"
+3.2.9,Number of citations by domain expert,
+3.2.10,Number State of academic publications,"No academic publications found: 1
+Academic publications done by the users of the software product: 3
+Academic publications done by the authors of the software product: 5"
+3.2.11,Sponsor availability,"No=1
+Yes=5"
+3.3.1,Availability of services and information for the estimation of the TCO,
+3.3.2,Availability of an edition without license cost,
+3.3.3,Cost of the minimal edition,
+3.3.4,Cost of the complete edition,
+3.4.1,License type,"Commercial usage allowed=5
+Commercial not usage allowed=1"

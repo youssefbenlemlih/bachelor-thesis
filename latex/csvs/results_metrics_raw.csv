@@ -1,0 +1,54 @@
+MetricId,React Query raw metrics,React Context raw metrics,Redux Toolkit raw metrics,Recoil raw metrics,MobX raw metrics
+1a.1.2,No,Yes,Yes,No,Yes
+1a.1.3,Beta implementation available,Implementation available by definition,Planned,Implementation available,No
+1a.2.2,Yes,Yes,Yes,Yes,Yes
+1a.2.4,0,0,4,0,0
+1a.2.6,2 (App.js for adding QueryProvider + usage in component),2 (App.js for adding ContextProvider + usage in component),"4 (defining Store,adding StoreProvider in App.js, defining slice, usage in component))",2 (App.js for adding RecoilRoot + usage in component),"2 (store definition, usage in component)"
+1a.2.7,Useful/rational default options provided,No default options,Useful/rational default options provided,No default options,No default options
+1a.2.8,English supported,Multiple languages supported,English supported,Multiple languages supported,Multiple languages supported
+1a.2.9,0,0,0,0,0
+1a.2.10,Medium knowledge required,Medium knowledge required,Understanding of a paradigm required,Understanding of a paradigm required,Little previous knowledge required
+1a.2.11,Installation guide available,Installation guide available,Installation guide available,Installation guide available,Installation guide available
+1a.3.1,"3+:SWR, urlq, apollo, RTK-Query",3+ (basically all state management libraries),"3+:e.g. USM,Zustand, Flux, Reflux, Dva",<3: jotai,No equivalent library available
+1b.1.1,Yes,Yes,"Yes, with advanced debugging features","Yes, with advanced debugging features",Yes (includes advanced features but includes bugs and is not updated to support latest version)
+1b.3.1,No,No,Yes,Yes,Yes
+1b.5.1,Breaking API  changes in major versions with migration guide and codemod,Breaking API changes in major versions (new Context API in v16),No breaking API changes introduced major update,Breaking API changes in major versions,Breaking API  changes in major versions with migration guide and codemod
+1b.6.1,0,0,0,0,0
+1b.6.2,110,103,111,114,104
+1b.6.3,38,38,39,40,38
+1d.1.1,Yes,Yes,Yes,Yes,Yes
+1d.1.2,Yes,"Yes, through React",Yes,Yes,Yes
+1d.2.3,No,No,Yes,No,No
+1d.3.1,712,748,796,734,731
+1d.3.2,136,149,148,151,131
+1d.3.3,73,66,72,76,66
+1e.2.1,Yes,Yes,"Yes, with advanced debugging features","Yes, with advanced debugging features",Yes (includes advanced features but includes bugs and is not updated to support latest version)
+1f.1.1,0.3,0.3,0.2,0.3,0.3
+1f.1.2,0.3,0.3,0.3,0.5,0.3
+1f.1.3,0.6,0.6,0.5,0.6,0.6
+1f.1.4,0.3,0.3,0.2,0.3,0.3
+1f.1.5,0,0,0,0,0
+1f.1.6,0.032,0.02,0.032,0.049,0.032
+1f.2.1,Suboptimal re-renders,Redundant re-renders,Suboptimal re-renders,Optimal re-renders,Optimal re-renders
+2.1.1,479,340,273,227,340
+2.2.1,,,,,
+2.2.2,547,1304.75,373.25,739.5,405.28
+2.2.3,4,12,7,9,9
+2.2.4,986,5537,1271,719,1814
+2.2.5,1167,5756,833,893,1163
+2.3.1,311,843.75,234,119.5,502.85
+2.3.2,14.36 %,24.44 %,19.82 %,22.17 %,20.70 %
+2.3.8,Documentation provides advanced examples and guides,Documentation provides hello world,Documentation provides advanced examples and guides,Documentation provides advanced examples and guides,Documentation provides advanced examples and guides
+2.3.9,No FAQ available,No FAQ available,11+ Questions,No FAQ available,No FAQ available
+2.4.1,Yes,No,No,No,No
+2.4.5,No,No,No,No,No
+2.4.9,"Yes, for sponsors",No,No,No,No
+2.5.6,Documentation provides advanced examples and guides,Documentation provides hello world,Documentation provides advanced examples and guides,Documentation provides advanced examples and guides,Documentation provides advanced examples and guides
+3.2.1,"1,422,846","15,448,616","1,784,313","281,558","994,202"
+3.2.2,"29,306.00","193,386.00","8,314.00","17,454.00","25,580.00"
+3.2.3,"1,737.00","39,959.00",770.00,958.00,"1,706.00"
+3.2.7,177,0,0,0,19
+3.2.8,0,Many,Many,0,Many
+3.2.10,Academic publications done by the users of the software product,Academic publications done by the users of the software product,Academic publications done by the users of the software product,No academic publications found,Academic publications done by the users of the software product
+3.2.11,Yes,No,Yes,No,Yes
+3.4.1,MIT,MIT,MIT,MIT,MIT

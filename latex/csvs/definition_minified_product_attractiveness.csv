@@ -1,0 +1,18 @@
+QuestionId,Question,QuestionState,MetricId,Metric,Metric state
+3.1,What degree of functional adequacy does the product offer?,KEPT,,// Same as 1d.1,
+,,,3.2.1,Number of weekly downloads,CHANGED
+3.2,What degree of diffusion does the product achieve?,KEPT,3.2.2,Freshmeat popularity index Number of stars on GitHub,CHANGED
+,,,3.2.3,Number of rating source forge users Number of forks on GitHub,CHANGED
+,,,3.2.4,Positive rating index,REMOVED
+,,,3.2.5,Number of success stories,REMOVED
+,,,3.2.6,Google visibility,REMOVED
+,,,3.2.7,Number of official partners/spronsors,CHANGED
+,,,3.2.8,Number of published books,KEPT
+,,,3.2.9,Number of citations by domain expert,REMOVED
+,,,3.2.10,Number State of academic publications,CHANGED
+,,,3.2.11,Sponsor availability,KEPT
+3.3,What level of cost-effectiveness is estimated?,REMOVED,3.3.1,Availability of services and information for the estimation of the TCO,REMOVED
+,,,3.3.2,Availability of an edition without license cost,REMOVED
+,,,3.3.3,Cost of the minimal edition,REMOVED
+,,,3.3.4,Cost of the complete edition,REMOVED
+3.4,What degree of reusability and redistribution is left by the license?,KEPT,3.4.1,License type,KEPT

@@ -1,0 +1,112 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/MacPorts 2021.58693_2)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: sample.aux
+A level-1 auxiliary file: text_content.aux
+A level-1 auxiliary file: appendix_a.aux
+The style file: abbrv.bst
+Database file #1: sample.bib
+Warning--I'm ignoring cyclomatic_complexity's extra "key" field
+--line 608 of file sample.bib
+Warning--I'm ignoring cyclomatic_complexity's extra "key" field
+--line 611 of file sample.bib
+Warning--I'm ignoring cyclomatic_complexity's extra "key" field
+--line 614 of file sample.bib
+Warning--to sort, need author or key in cqrs
+Warning--to sort, need author or key in iso_25010_online
+Warning--to sort, need author or key in react
+Warning--to sort, need author or key in stackoverflow_insights
+Warning--to sort, need author or key in react_reconciliation
+Warning--to sort, need author or key in mozilla_div
+Warning--to sort, need author or key in react_jsx
+Warning--to sort, need author or key in mozilla_span
+Warning--to sort, need author or key in react_state_and_lifecycle
+Warning--to sort, need author or key in react_hooks
+Warning--to sort, need author or key in presentational_and_container_components
+Warning--to sort, need author or key in mozilla_dom
+Warning--to sort, need author or key in mozilla_fetch
+Warning--to sort, need author or key in react_context
+Warning--to sort, need author or key in redux_toolkit
+Warning--to sort, need author or key in flux
+Warning--to sort, need author or key in mobx
+Warning--to sort, need author or key in recoil
+Warning--to sort, need author or key in react_query
+Warning--to sort, need author or key in redux
+Warning--to sort, need author or key in flux_recommendation
+Warning--to sort, need author or key in redux_style_guide
+Warning--to sort, need author or key in why_redux_toolkit
+Warning--to sort, need author or key in redux_toolkit_slice
+Warning--to sort, need author or key in redux_toolkit_configure_store
+Warning--to sort, need author or key in redux_toolkit_async
+Warning--to sort, need author or key in redux_toolkit_create_async_thunk
+Warning--to sort, need author or key in redux_motivation
+Warning--to sort, need author or key in event_sourcing
+Warning--to sort, need author or key in tfrp_explanaition
+Warning--to sort, need author or key in recoil_atoms
+Warning--to sort, need author or key in recoil_selectors
+Warning--to sort, need author or key in recoil_core_concepts
+Warning--to sort, need author or key in react_using_the_state_hook
+Warning--to sort, need author or key in react_query_overview
+Warning--to sort, need author or key in react_query_optimistic_updates
+Warning--to sort, need author or key in mozilla_deconstructing
+Warning--to sort, need author or key in arc42_iso
+Warning--to sort, need author or key in iso_25010_online_page_2
+Warning--to sort, need author or key in iso_25010_online_page_3
+Warning--to sort, need author or key in react_suspense
+Warning--to sort, need author or key in npm
+Warning--to sort, need author or key in first_contentful_paint
+Warning--to sort, need author or key in speed_index
+Warning--to sort, need author or key in largest_contentful_paint
+Warning--to sort, need author or key in time_to_interactive
+Warning--to sort, need author or key in total_blocking_time
+Warning--to sort, need author or key in cumulative_layout_shift
+Warning--to sort, need author or key in redux_toolkit_suspense_planned_support
+Warning--to sort, need author or key in redux_dev_tools
+Warning--to sort, need author or key in redux_testing
+Warning--to sort, need author or key in recoil_github_experimental
+Warning--to sort, need author or key in react_toolkit_upgrade_with_codemod
+Warning--to sort, need author or key in rtk_query
+Warning--empty institution in gqm
+Warning--empty booktitle in difference_between_2_generation
+Warning--empty institution in deprecating_the_observer_pattern
+You've used 84 entries,
+            2118 wiz_defined-function locations,
+            828 strings with 14746 characters,
+and the built_in function-call counts, 19012 in all, are:
+= -- 1903
+> -- 500
+< -- 10
++ -- 238
+- -- 146
+* -- 884
+:= -- 2648
+add.period$ -- 256
+call.type$ -- 84
+change.case$ -- 325
+chr.to.int$ -- 0
+cite$ -- 141
+duplicate$ -- 784
+empty$ -- 2052
+format.name$ -- 146
+if$ -- 4397
+int.to.chr$ -- 0
+int.to.str$ -- 84
+missing$ -- 26
+newline$ -- 420
+num.names$ -- 60
+pop$ -- 748
+preamble$ -- 1
+purify$ -- 240
+quote$ -- 0
+skip$ -- 562
+stack$ -- 0
+substring$ -- 813
+swap$ -- 157
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 330
+warning$ -- 57
+while$ -- 97
+width$ -- 86
+write$ -- 807
+(There were 60 warnings)

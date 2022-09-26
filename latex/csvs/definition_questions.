@@ -1,0 +1,161 @@
+<table>
+<thead>
+<tr class="header">
+<th>QuestionId</th>
+<th>Question</th>
+<th>QuestionRelevance</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1a.1</td>
+<td>Adaptability</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>1a.2</td>
+<td>Installability</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>1a.3</td>
+<td>Replaceability</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>1a.4</td>
+<td>Coexistence</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1b.1</td>
+<td>Analyzability</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>1b.2</td>
+<td>Changeability</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1b.3</td>
+<td>Testability</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>1b.4</td>
+<td>Technology concentration</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1b.5</td>
+<td>Stability</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>1b.6</td>
+<td>How maintainable is the application code using the product?</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>1c.1</td>
+<td>Rebustness</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1c.2</td>
+<td>Recoverability</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1d.1</td>
+<td>Functional adequacy</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>1d.2</td>
+<td>Interoperability</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>1d.3</td>
+<td>Functional accuracy</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>1e.1</td>
+<td>Pleasantness</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1e.2</td>
+<td>Operability</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>1e.3</td>
+<td>Understandability</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>1e.4</td>
+<td>Learnability</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>1f.1</td>
+<td>Time behavior</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>1f.2</td>
+<td>Resources utilization</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>2.1</td>
+<td>How many developers does the community involve?</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>2.2</td>
+<td>What degree of activity does the community have?</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>2.3</td>
+<td>Are the support tools available and effective?</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>2.4</td>
+<td>Are support services provided?</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>2.5</td>
+<td>Is the documentation exhaustive and easily consultable?</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>3.1</td>
+<td>What degree of functional adequacy does the product offer?</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>3.2</td>
+<td>What degree of diffusion does the product achieve?</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>3.3</td>
+<td>What level of cost-effectiveness is estimated?</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>3.4</td>
+<td>What degree of reusability and redistribution is left by the license?</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>

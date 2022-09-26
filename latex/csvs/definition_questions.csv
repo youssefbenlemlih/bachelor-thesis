@@ -1,0 +1,31 @@
+QuestionId,Question,QuestionRelevance
+1a.1,Adaptability,2
+1a.2,Installability,1
+1a.3,Replaceability,2
+1a.4,Coexistence,
+1b.1,Analyzability,2
+1b.2,Changeability,
+1b.3,Testability,2
+1b.4,Technology concentration,
+1b.5,Stability,2
+1b.6,How maintainable is the application code using the product?,2
+1c.1,Rebustness,
+1c.2,Recoverability,
+1d.1,Functional adequacy,3
+1d.2,Interoperability,2
+1d.3,Functional accuracy,2
+1e.1,Pleasantness,
+1e.2,Operability,1
+1e.3,Understandability,
+1e.4,Learnability,2
+1f.1,Time behavior,2
+1f.2,Resources utilization,3
+2.1,How many developers does the community involve?,3
+2.2,What degree of activity does the community have?,2
+2.3,Are the support tools available and effective?,2
+2.4,Are support services provided?,1
+2.5,Is the documentation exhaustive and easily consultable?,3
+3.1,What degree of functional adequacy does the product offer?,3
+3.2,What degree of diffusion does the product achieve?,2
+3.3,What level of cost-effectiveness is estimated?,
+3.4,What degree of reusability and redistribution is left by the license?,1

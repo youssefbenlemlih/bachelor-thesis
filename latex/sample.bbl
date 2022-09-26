@@ -1,0 +1,463 @@
+\begin{thebibliography}{10}
+
+\bibitem{recoil_atoms}
+Atoms | recoil.
+\newblock \url{https://recoiljs.org/docs/basic-tutorial/atoms/}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux_toolkit_configure_store}
+configurestore | redux toolkit.
+\newblock \url{https://redux-toolkit.js.org/api/configureStore}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{react_context}
+Context – react.
+\newblock \url{https://reactjs.org/docs/context.html}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{recoil_core_concepts}
+Core concepts | recoil.
+\newblock \url{https://recoiljs.org/docs/introduction/core-concepts}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{cqrs}
+Cqrs.
+\newblock \url{https://martinfowler.com/bliki/CQRS.html}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux_toolkit_create_async_thunk}
+createasyncthunk | redux toolkit.
+\newblock \url{https://redux-toolkit.js.org/api/createAsyncThunk}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux_toolkit_slice}
+createslice | redux toolkit.
+\newblock \url{https://redux-toolkit.js.org/api/createSlice}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{cumulative_layout_shift}
+Cumulative layout shift (cls).
+\newblock \url{https://web.dev/cls/}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{mozilla_deconstructing}
+Destructuring assignment - javascript | mdn.
+\newblock
+  \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{mozilla_div}
+<div>: The content division element - html: Hypertext markup language | mdn.
+\newblock \url{https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{mozilla_dom}
+Document object model (dom) - web apis | mdn.
+\newblock
+  \url{https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{event_sourcing}
+Event sourcing.
+\newblock \url{https://martinfowler.com/eaaDev/EventSourcing.html}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{recoil_github_experimental}
+facebookexperimental/recoil: Recoil is an experimental state management library
+  for react apps. it provides several capabilities that are difficult to
+  achieve with react alone, while being compatible with the newest features of
+  react.
+\newblock \url{https://github.com/facebookexperimental/Recoil}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{mozilla_fetch}
+Fetch api - web apis | mdn.
+\newblock
+  \url{https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API#fetch_interfaces}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{first_contentful_paint}
+First contentful paint.
+\newblock \url{https://web.dev/first-contentful-paint/}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{flux_recommendation}
+Flux: An application architecture for react – react blog.
+\newblock \url{https://reactjs.org/blog/2014/05/06/flux.html}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{flux}
+In-depth overview | flux.
+\newblock \url{https://facebook.github.io/flux/docs/in-depth-overview/}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{react_hooks}
+Introducing hooks – react.
+\newblock \url{https://reactjs.org/docs/hooks-intro.html}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{iso_25010_online}
+Iso 25010.
+\newblock
+  \url{https://iso25000.com/index.php/en/iso-25000-standards/iso-25010}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{iso_25010_online_page_2}
+Iso 25010.
+\newblock
+  \url{https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=3}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{iso_25010_online_page_3}
+Iso 25010.
+\newblock
+  \url{https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{react_jsx}
+Jsx in depth – react.
+\newblock \url{https://reactjs.org/docs/jsx-in-depth.html}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{largest_contentful_paint}
+Largest contentful paint (lcp).
+\newblock \url{https://web.dev/lcp/}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{react_toolkit_upgrade_with_codemod}
+Migrating to react query 4 | tanstack query docs.
+\newblock
+  \url{https://tanstack.com/query/v4/docs/guides/migrating-to-react-query-4}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{redux_motivation}
+Motivation | redux.
+\newblock
+  \url{https://redux.js.org/understanding/thinking-in-redux/motivation}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{npm}
+npm.
+\newblock \url{https://www.npmjs.com/}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{react_query_optimistic_updates}
+Optimistic updates | tanstack query docs.
+\newblock \url{https://tanstack.com/query/v4/docs/guides/optimistic-updates}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{react_query_overview}
+Overview | tanstack query docs.
+\newblock \url{https://tanstack.com/query/v4/docs/overview}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{presentational_and_container_components}
+Presentational and container components | by dan abramov | medium.
+\newblock
+  \url{https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{react}
+React – a javascript library for building user interfaces.
+\newblock \url{https://reactjs.org/}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{mobx}
+Readme · mobx.
+\newblock \url{https://mobx.js.org/README.html}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{recoil}
+Recoil.
+\newblock \url{https://recoiljs.org/}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{react_reconciliation}
+Reconciliation – react.
+\newblock \url{https://reactjs.org/docs/reconciliation.html}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux}
+Redux - a predictable state container for javascript apps. | redux.
+\newblock \url{https://redux.js.org/}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux_toolkit}
+Redux toolkit | redux toolkit.
+\newblock \url{https://redux-toolkit.js.org/}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{why_redux_toolkit}
+Redux toolkit: Overview | redux.
+\newblock \url{https://redux.js.org/redux-toolkit/overview}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux_dev_tools}
+reduxjs/redux-devtools: Devtools for redux with hot reloading, action replay,
+  and customizable ui.
+\newblock \url{https://github.com/reduxjs/redux-devtools}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{rtk_query}
+Rtk query overview | redux toolkit.
+\newblock \url{https://redux-toolkit.js.org/rtk-query/overview}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{recoil_selectors}
+Selectors | recoil.
+\newblock \url{https://recoiljs.org/docs/basic-tutorial/selectors}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{mozilla_span}
+<span>: The content span element - html: Hypertext markup language | mdn.
+\newblock \url{https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{speed_index}
+Speed index.
+\newblock \url{https://web.dev/speed-index/}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{stackoverflow_insights}
+Stack overflow developer survey 2021.
+\newblock
+  \url{https://insights.stackoverflow.com/survey/2021#most-popular-technologies-webframe}.
+\newblock (Accessed on 04/22/2022).
+
+\bibitem{react_state_and_lifecycle}
+State and lifecycle – react.
+\newblock \url{https://reactjs.org/docs/state-and-lifecycle.html}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux_style_guide}
+Style guide | redux.
+\newblock \url{https://redux.js.org/style-guide/}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux_toolkit_suspense_planned_support}
+Support for suspense in rtk query · issue \#1574 · reduxjs/redux-toolkit.
+\newblock \url{https://github.com/reduxjs/redux-toolkit/issues/1574}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{react_suspense}
+Suspense for data fetching (experimental) – react.
+\newblock \url{https://17.reactjs.org/docs/concurrent-mode-suspense.html}.
+\newblock (Accessed on 08/31/2022).
+
+\bibitem{react_query}
+Tanstack query | react query, solid query, svelte query, vue query.
+\newblock \url{https://tanstack.com/query/v4/}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{time_to_interactive}
+Time to interactive.
+\newblock \url{https://web.dev/interactive/}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{arc42_iso}
+Tip 10-4: Use the quality tree as checklist! | arc42 documentation.
+\newblock \url{https://docs.arc42.org/tips/10-4/}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{total_blocking_time}
+Total blocking time (tbt).
+\newblock \url{https://web.dev/tbt/}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{tfrp_explanaition}
+Transparent functional reactive programming | mobx quick start guide.
+\newblock
+  \url{https://subscription.packtpub.com/book/web-development/9781789344837/9/ch09lvl1sec51/transparent-functional-reactive-programming}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux_toolkit_async}
+Usage guide | redux toolkit.
+\newblock
+  \url{https://redux-toolkit.js.org/usage/usage-guide#asynchronous-logic-and-data-fetching}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{react_using_the_state_hook}
+Using the state hook – react.
+\newblock \url{https://reactjs.org/docs/hooks-state.html#gatsby-focus-wrapper}.
+\newblock (Accessed on 08/29/2022).
+
+\bibitem{redux_testing}
+Writing tests | redux.
+\newblock \url{https://redux.js.org/usage/writing-tests}.
+\newblock (Accessed on 08/30/2022).
+
+\bibitem{sqm_comparison}
+A.~Adewumi, S.~Misra, and N.~Omoregbe.
+\newblock Evaluating open source software quality models against iso 25010.
+\newblock In {\em 2015 IEEE International Conference on Computer and
+  Information Technology; Ubiquitous Computing and Communications; Dependable,
+  Autonomic and Secure Computing; Pervasive Intelligence and Computing}, pages
+  872--877. IEEE, 2015.
+
+\bibitem{effort_crm}
+L.~Aversano and M.~Tortorella.
+\newblock Applying effort for evaluating crm open source systems.
+\newblock In {\em PROFES}, 2011.
+
+\bibitem{effort}
+L.~Aversano and M.~Tortorella.
+\newblock Quality evaluation of floss projects: Application to erp systems.
+\newblock {\em Information and Software Technology}, 55(7):1260--1276, 2013.
+
+\bibitem{gqm}
+V.~R. Basili.
+\newblock Software modeling and measurement: the goal/question/metric paradigm.
+\newblock Technical report, 1992.
+
+\bibitem{boehm}
+B.~W. Boehm, J.~R. Brown, and M.~Lipow.
+\newblock Quantitative evaluation of software quality.
+\newblock In {\em in ICSE ’76: Proceedings of the 2nd International
+  Conference on Software engineering}, pages 592--605, 1976.
+
+\bibitem{cognitive_complexity}
+G.~A. Campbell and S.~SonarSource.
+\newblock Cognitive complexity.
+\newblock {\em SonarSource: Geneva, Switzerland}, 2020.
+
+\bibitem{maintainability_index}
+D.~Coleman, B.~Lowther, and P.~Oman.
+\newblock The application of software maintainability models in industrial
+  software systems.
+\newblock {\em Journal of Systems and Software}, 29(1):3--16, 1995.
+
+\bibitem{iso9126}
+I.~E. Commission.
+\newblock {\em Software Engineering-Product Quality}, volume 9126.
+\newblock ISO/IEC, 2001.
+
+\bibitem{dap_model}
+F.~Deissenboeck, E.~Juergens, K.~Lochmann, and S.~Wagner.
+\newblock Software quality models: Purposes, usage scenarios and requirements.
+\newblock In {\em 2009 ICSE workshop on software quality}, pages 9--14. IEEE,
+  2009.
+
+\bibitem{dromey}
+R.~G. Dromey.
+\newblock A model for software product quality.
+\newblock {\em IEEE Transactions on software engineering}, 21(2):146--162,
+  1995.
+
+\bibitem{osmm}
+F.~Duijnhouwer and C.~Widdows.
+\newblock Open source maturity model. cap gemini expert letter (august 2003),
+  2008.
+
+\bibitem{furps}
+R.~B. Grady.
+\newblock {\em Practical software metrics for project management and process
+  improvement}.
+\newblock Prentice-Hall, Inc., 1992.
+
+\bibitem{difference_between_2_generation}
+K.~Haaland and A.-K. Groven.
+\newblock Free/libre open source quality models-a comparison between two
+  approaches.
+\newblock 2010.
+
+\bibitem{gang_of_four}
+J.~Hunt.
+\newblock Gang of four design patterns.
+\newblock In {\em Scala design patterns}, pages 135--136. Springer, 2013.
+
+\bibitem{rgm}
+M.~R. Lyu et~al.
+\newblock {\em Handbook of software reliability engineering}, volume 222.
+\newblock IEEE computer society press Los Alamitos, 1996.
+
+\bibitem{deprecating_the_observer_pattern}
+I.~Maier, T.~Rompf, and M.~Odersky.
+\newblock Deprecating the observer pattern.
+\newblock Technical report, 2010.
+
+\bibitem{goodhart}
+C.~Mattson, R.~L. Bushardt, and A.~R. Artino~Jr.
+\newblock When a measure becomes a target, it ceases to be a good measure,
+  2021.
+
+\bibitem{cyclomatic_complexity}
+T.~McCabe.
+\newblock A complexity measure.
+\newblock {\em IEEE Transactions on Software Engineering}, SE-2(4):308--320,
+  1976.
+
+\bibitem{mccall}
+J.~McCall, P.~Richards, and G.~Walters.
+\newblock Factors in software quality, volumes i, ii, and iii, us rome air
+  development center reports ntis ad/a-049 014.
+\newblock Technical report, NTIS AD/A-049 015 and NTIS AD/A-049 016, US
+  Department of Commerce, 1977.
+
+\bibitem{quality_models}
+J.~P. Miguel, D.~Mauricio, and G.~Rodr{\'\i}guez.
+\newblock A review of software quality models for the evaluation of software
+  products.
+\newblock {\em arXiv preprint arXiv:1412.2977}, 2014.
+
+\bibitem{omm}
+E.~Petrinja, R.~Nambakam, and A.~Sillitti.
+\newblock Introducing the opensource maturity model.
+\newblock In {\em 2009 ICSE Workshop on Emerging Trends in Free/Libre/Open
+  Source Software Research and Development}, pages 37--41. IEEE, 2009.
+
+\bibitem{sqo_oss_1}
+I.~Samoladas, G.~Gousios, D.~Spinellis, and I.~Stamelos.
+\newblock The sqo-oss quality model: measurement based open source software
+  evaluation.
+\newblock In {\em IFIP international conference on open source systems}, pages
+  237--248. Springer, 2008.
+
+\bibitem{qsos}
+R.~Semeteys, O.~Pilot, L.~Baudrillard, G.~Le~Bouder, and W.~Pinkhardt.
+\newblock Method for qualification and selection of open source software (qsos)
+  version 1.6.
+\newblock Technical report, Technical report, Atos Origin, 2006.
+
+\bibitem{qualoss}
+M.~Soto and M.~Ciolkowski.
+\newblock The qualoss open source assessment model measuring the performance of
+  open source communities.
+\newblock In {\em 2009 3rd International Symposium on Empirical Software
+  Engineering and Measurement}, pages 498--501. IEEE, 2009.
+
+\bibitem{sqo_oss_2}
+D.~Spinellis, G.~Gousios, V.~Karakoidas, P.~Louridas, P.~J. Adams,
+  I.~Samoladas, and I.~Stamelos.
+\newblock Evaluating the quality of open source software.
+\newblock {\em Electronic Notes in Theoretical Computer Science}, 233:5--28,
+  2009.
+
+\bibitem{iso_25010_pdf}
+I.~O.~F. STANDARDIZATION.
+\newblock Iso/iec 25010: Systems and software engineering-systems and software
+  quality requirements and evaluation (square), 2011.
+
+\bibitem{sung_model}
+W.~J. Sung, J.~H. Kim, and S.~Y. Rhew.
+\newblock A quality model for open source software selection.
+\newblock In {\em Sixth International Conference on Advanced Language
+  Processing and Web Information Technology (ALPIT 2007)}, pages 515--519.
+  IEEE, 2007.
+
+\bibitem{dynamic_scoping}
+{\'E}.~Tanter.
+\newblock Beyond static and dynamic scope.
+\newblock {\em ACM Sigplan Notices}, 44(12):3--14, 2009.
+
+\bibitem{openbrr}
+A.~Wasserman, M.~Pal, and C.~Chan.
+\newblock The business readiness rating model: an evaluation framework for open
+  source.
+\newblock In {\em Proceedings of the EFOSS Workshop, Como, Italy}, 2006.
+
+\bibitem{interoperability}
+P.~Wegner.
+\newblock Interoperability.
+\newblock {\em ACM Computing Surveys (CSUR)}, 28(1):285--287, 1996.
+
+\end{thebibliography}

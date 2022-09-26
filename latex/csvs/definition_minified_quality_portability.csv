@@ -1,0 +1,17 @@
+QuestionId,Question,QuestionState,MetricId,Metric,Metric state
+1a.1,Adaptability,KEPT,1a.1.1,Number of operating systems supported,REMOVED
+,,,1a.1.2,Support for Function and Class Components,ADDED
+,,,1a.1.3,Adoption of React Suspense ,ADDED
+1a.2,Installability,KEPT,1a.2.1,Time required for installation,REMOVED
+,,,1a.2.2,Availability of the installation manual,KEPT
+,,,1a.2.3,Automation level and use of installation scripts,REMOVED
+,,,1a.2.4,Dependence on third-party components,KEPT
+,,,1a.2.5,Nominal length of the installation procedures,REMOVED
+,,,1a.2.6,Number of configuration files Minimum number of files added and changed for minimum functionality,CHANGED
+,,,1a.2.7,Availability and rationality of default options,CHANGED
+,,,1a.2.8,Internationalisation of the manual,KEPT
+,,,1a.2.9,Number of unforeseen issues,KEPT
+,,,1a.2.10,Degree of knowledge of the required operating environment,KEPT
+,,,1a.2.11,Efficacy of the guide,KEPT
+1a.3,Replaceability,KEPT,1a.3.1,Existence of other libraries with the same functionality and a similar API,ADDED
+1a.4,Coexistence,REMOVED,,,

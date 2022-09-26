@@ -1,0 +1,31 @@
+QuestionId,Question,QuestionState,MetricId,Metric,Metric state
+2.1,How many developers does the community involve?,KEPT,2.1.1,Number of committers,KEPT
+2.2,What degree of activity does the community have?,KEPT,2.2.1,Number of major releases per year,REMOVED
+,,,2.2.2,Average number of commits per year,KEPT
+,,,2.2.3,Average number of commits per committer,KEPT
+,,,2.2.4,Closed bugs index issues on GitHub,CHANGED
+,,,2.2.5,Index of satisfied requests merged pull requests on GitHub,CHANGED
+2.3,Are the support tools available and effective?,KEPT,2.3.1,Average number of threads per year on StackOverflow,KEPT
+,,,2.3.2,Index of unanswered threads on StackOverflow,KEPT
+,,,2.3.3,Number of forums,REMOVED
+,,,2.3.4,Average number of threads per forum,REMOVED
+,,,2.3.5,Average number of posts per year,REMOVED
+,,,2.3.6,Forum internationalisation level,REMOVED
+,,,2.3.7,Number of trackers,REMOVED
+,,,2.3.8,Volume of Wikis Usability of the documentation (same as 2.5.6),CHANGED
+,,,2.3.9,Number of faqs in the documentation,CHANGED
+2.4,Are support services provided?,KEPT,2.4.1,Availability of training services,KEPT
+,,,2.4.2,Temporal coverage of training services,REMOVED
+,,,2.4.3,Availability of e-learning services,REMOVED
+,,,2.4.4,Availability of phone assistance,REMOVED
+,,,2.4.5,Availability of certification services,KEPT
+,,,2.4.6,Availability of outsourcing services,REMOVED
+,,,2.4.7,Availability of maintenance  services,REMOVED
+,,,2.4.8,Availability of information and services for TCO estimation,REMOVED
+,,,2.4.9,Availability of consulting services,KEPT
+2.5,Is the documentation exhaustive and easily consultable?,KEPT,2.5.1,Number of topics covered in the administrator documentation,REMOVED
+,,,2.5.2,Number of topics covered in the user documentation,REMOVED
+,,,2.5.3,Number of topics covered in the technical documentation,REMOVED
+,,,2.5.4,Number of topics covered in the other documents,REMOVED
+,,,2.5.5,Number of additional documentation files,REMOVED
+,,,2.5.6,Usability of the documentation,KEPT
